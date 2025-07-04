@@ -40,7 +40,7 @@ After running and syncing your Sequencer node, You can go through [Get Role](htt
 
 ---
 
-## 1. Install Dependecies
+## 1. Install Dependencies
 * Update packages:
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y
